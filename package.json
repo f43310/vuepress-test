@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-test",
+  "version": "1.0.0",
+  "description": "开始练习vuepress的使用。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f43310/vuepress-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f43310/vuepress-test/issues"
+  },
+  "homepage": "https://github.com/f43310/vuepress-test#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
